@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=22&pause=1000&width=435&lines=Ol%C3%A1%2C+bem+vindo+ao+meu+reposit%C3%B3rio!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1%2C+bem+vindo+ao+meu+reposit%C3%B3rio!)](https://git.io/typing-svg)
 
 ##
 📌 Atuando como Analista Desenvolvedor Junior em Outsystem Legacy <br>
