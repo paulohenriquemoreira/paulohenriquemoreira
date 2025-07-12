@@ -5,8 +5,6 @@
 ##
 📌 Atuando como Analista Desenvolvedor Junior em Outsystem Legacy <br>
 📌Cursando o 1º semestre de Analise e Desenvolvimento de Sistema na FASUL Educacional. <br>
-📌Cursando a Pós Graduação em Tecnologias para Aplicações Web na Faculdade Bookplay. <br>
-📌Cursando a Pós Graduação em Engenharia de Software na Faculdade Bookplay. <br>
 📌Formado em Tecnólogo em Blockchain e Criptografia Digital. <br>
 📌Sempre em busca de aprendizado e aperfeiçoamento profissional e pessoal!
 
@@ -36,14 +34,7 @@
   
 </div>
 
-
-
- <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{paulohenriquemoreira}/count.svg" /></p> 
-<br>
-</div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
 
 
 </div>
