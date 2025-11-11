@@ -1,4 +1,4 @@
-# Olá, seja bem vindo(a)! Meu nome é Paulo Henrique Moreira
+## Olá, seja bem vindo(a)! Meu nome é Paulo Henrique Moreira
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header)
 
