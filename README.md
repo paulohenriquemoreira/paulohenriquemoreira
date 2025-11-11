@@ -1,4 +1,4 @@
-# Paulo Henrique Moreira
+# Olá, seja bem vindo(a)! Meu nome é Paulo Henrique Moreira
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header)
 
@@ -6,9 +6,11 @@
 
 ##
 
-📌 Atuando como Analista Desenvolvedor Junior em Outsystem Legacy
+📌 Atuo como Analista Desenvolvedor Junior em Outsystem Legacy
 
-📌 Cursando o 1º semestre de Analise e Desenvolvimento de Sistema na FASUL Educacional.
+📌 Em formação FullStack pela Empower da Vai na Web
+
+📌 Cursando Analise e Desenvolvimento de Sistema na FASUL Educacional.
 
 📌 Formado em Tecnólogo em Blockchain e Criptografia Digital.
 
@@ -35,4 +37,3 @@
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer)
 </div>
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer)
