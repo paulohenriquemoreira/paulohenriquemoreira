@@ -8,9 +8,11 @@
 
 📌 Atuo como Analista Desenvolvedor Junior em Outsystem Legacy
 
-📌 Em formação FullStack pela Empower da Vai na Web
+📌 Formado 2026 na Formação FullStack pela Empower da Vai na Web -Kodie Academy
 
 📌 Cursando Analise e Desenvolvimento de Sistema na FASUL Educacional.
+
+📌 Cursando Pós em User Experience (UX) e User Interface (Ui)
 
 📌 Formado em Tecnólogo em Blockchain e Criptografia Digital.
 
