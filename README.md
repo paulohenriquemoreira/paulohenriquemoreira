@@ -45,6 +45,8 @@ Foco em construir aplicações úteis, responsivas, bem organizadas e com códig
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white).
+![TalwindCss](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC).
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Responsive Design](https://img.shields.io/badge/Responsive%20Design-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white)
@@ -84,21 +86,64 @@ Foco em construir aplicações úteis, responsivas, bem organizadas e com códig
 
 <div align="center">
 
-<a href="https://github.com/paulohenriquemoreira/projeto_fullstack_do_sistema_de_gestao_de_abrigos">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=paulohenriquemoreira&repo=projeto_fullstack_do_sistema_de_gestao_de_abrigos&theme=tokyonight&hide_border=true&title_color=00FFFF&icon_color=00FFFF"/>
-</a>
-
-<a href="https://github.com/paulohenriquemoreira/projeto_api_sistema_de_gestao_de_abrigos">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=paulohenriquemoreira&repo=projeto_api_sistema_de_gestao_de_abrigos&theme=tokyonight&hide_border=true&title_color=00FFFF&icon_color=00FFFF"/>
-</a>
-
-<a href="https://github.com/paulohenriquemoreira/ONG_Apoio_Pleno_API">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=paulohenriquemoreira&repo=ONG_Apoio_Pleno_API&theme=tokyonight&hide_border=true&title_color=00FFFF&icon_color=00FFFF"/>
-</a>
-
-<a href="https://github.com/paulohenriquemoreira/ZelaCidade">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=paulohenriquemoreira&repo=ZelaCidade&theme=tokyonight&hide_border=true&title_color=00FFFF&icon_color=00FFFF"/>
-</a>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏠 Sistema de Gestão de Abrigos</h3>
+      <p><strong>Categoria:</strong> Full Stack</p>
+      <p>Aplicação Full Stack com foco em gestão, organização de dados e integração entre front-end e API.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
+	     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
+      </p>
+      <a href="https://github.com/paulohenriquemoreira/projeto_fullstack_do_sistema_de_gestao_de_abrigos">🔗 Ver repositório</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛠️ API - Gestão de Abrigos</h3>
+      <p><strong>Categoria:</strong> Back-end</p>
+      <p>API REST construída para dar suporte ao sistema de gestão de abrigos, com foco em estrutura, rotas e consumo no front-end.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+        <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" />
+      </p>
+      <a href="https://github.com/paulohenriquemoreira/projeto_api_sistema_de_gestao_de_abrigos">🔗 Ver repositório</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💙 ONG Apoio Pleno API</h3>
+      <p><strong>Categoria:</strong> Back-end / Projeto acadêmico</p>
+      <p>API voltada à gestão solidária de equipamentos médicos e ortopédicos, com proposta social e foco em organização de processos.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/API_REST-02569B?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" />
+      </p>
+      <a href="https://github.com/paulohenriquemoreira/ONG_Apoio_Pleno_API">🔗 Ver repositório</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌆 ZelaCidade</h3>
+      <p><strong>Categoria:</strong> Back-end</p>
+      <p>Projeto com foco em desenvolvimento de APIs RESTful, manipulação de dados e organização de estrutura back-end.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
+      </p>
+      <a href="https://github.com/paulohenriquemoreira/ZelaCidade">🔗 Ver repositório</a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -137,11 +182,14 @@ mindmap
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=paulohenriquemoreira&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FFFF&icon_color=00FFFF&include_all_commits=true&count_private=true"/>
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulohenriquemoreira&layout=compact&theme=tokyonight&hide_border=true&title_color=00FFFF"/>
+<img src="https://img.shields.io/github/followers/paulohenriquemoreira?style=for-the-badge&logo=github&label=Seguidores&color=00FFFF&labelColor=0D1117" />
+<img src="https://img.shields.io/github/stars/paulohenriquemoreira?style=for-the-badge&logo=github&label=Stars&color=00FFFF&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Repositórios-43-00FFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Foco-Full%20Stack-00FFFF?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0D1117" />
 
 </div>
+
+<br>
 
 <div align="center">
 
@@ -149,12 +197,13 @@ mindmap
 
 </div>
 
+<br>
+
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=paulohenriquemoreira&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true" alt="Gráfico de atividades do GitHub"/>
 
 </div>
-
 ---
 
 ## 🏆 Conquistas
@@ -167,27 +216,6 @@ mindmap
 
 ---
 
-## 💼 Ideias de projetos para fortalecer meu portfólio
-
-### Front-end
-- Landing page profissional com foco em conversão
-- Dashboard responsivo com gráficos e filtros
-- Clone de interface com atenção a UX/UI e acessibilidade
-- Projeto com React, componentes reutilizáveis e consumo de API
-
-### Back-end
-- API REST com Node.js, Express e SQLite
-- Autenticação com JWT
-- Documentação com Swagger ou Postman
-- Testes de rotas e tratamento profissional de erros
-
-### Full Stack
-- Sistema completo com cadastro, login, CRUD, dashboard e deploy
-- Aplicação social/ONG com impacto real
-- Sistema financeiro pessoal com relatórios e categorias
-- Plataforma de agendamento com painel administrativo
-
----
 
 ## 📫 Contato
 
@@ -199,7 +227,7 @@ mindmap
 
 </div>
 
----
+
 
 <div align="center">
 
