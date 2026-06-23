@@ -12,7 +12,7 @@
 
 ## 🚀 Sobre mim
 
-Sou **Analista Desenvolvedor Júnior**, com atuação em **OutSystems Legacy**, manutenção de sistemas, análise de requisitos, correção de bugs, testes e melhoria contínua de aplicações.
+Sou **Analista Desenvolvedor**, com atuação em **OutSystems Legacy**, manutenção de sistemas, análise de requisitos, correção de bugs, testes e melhoria contínua de aplicações.
 
 Também estou em evolução como **Desenvolvedor Full Stack**, estudando e desenvolvendo projetos com **HTML, CSS, Sass, JavaScript, React, Node.js, Express, SQLite, APIs REST e UI/UX**.
 
