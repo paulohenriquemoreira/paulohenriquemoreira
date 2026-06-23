@@ -4,7 +4,7 @@
 
 # 👋 Olá, eu sou Paulo Henrique Moreira
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Desenvolvedor+Outsystems+%7C+Outsystems+Legacy;Desenvolvedor+Full+Stack+em+evolu%C3%A7%C3%A3o;FrontEnd+%7C+BackEnd+%7C+UX%2FUI;Javascript+%7C+React+%7C+Node.Js+%7C+SQLite+%7C+Postman+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&center=true&width=525&lines=Desenvolvedor+Outsystems+%7C+Outsystems+Legacy;Desenvolvedor+Full+Stack+em+evolu%C3%A7%C3%A3o;FrontEnd+%7C+BackEnd+%7C+UX%2FUI;Javascript+%7C+React+%7C+Node.Js+%7C+SQLite+%7C+Postman+)](https://git.io/typing-svg)
 
 </div>
 
